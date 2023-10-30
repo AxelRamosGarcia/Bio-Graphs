@@ -1,0 +1,189 @@
+﻿property_value,properties,strain,status
+Dextrin,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Maltose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Trehalose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Cellobiose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Gentiobiose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Sucrose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Turanose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Stachyose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Raffinose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+α-D-Lactose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Melibiose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+β-Methyl- D-Glucoside,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Salicin,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+N-Acetyl- D-Glucosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+N-Acetyl-β-D-Mannosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+N-Acetyl- D-Galactosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+N-Acetyl Neuraminic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+α-D-Glucose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Mannose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Fructose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+D-Galactose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+3-Methyl Glucose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Fucose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Fucose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Rhamnose,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Inosine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Sorbitol,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Mannitol,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Arabitol,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+myo-Inositol,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Glycerol,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Glucose-6-PO4,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Fructose-6-PO4,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Aspartic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Serine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Gelatin,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+Glycyl-L-Proline,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Alanine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+L-Arginine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+L-Aspartic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,BL
+L-Glutamic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Histidine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Pyroglutamic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Serine,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Pectin,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+D-Galacturonic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Galactonic Acid Lactone,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Gluconic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Glucuronic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Glucuronamide,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Mucic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Quinic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Saccharic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+p-Hydroxy-Phenylacetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Methyl Pyruvate,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Lactic Acid Methyl Ester,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Lactic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Citric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+α-Keto-Glutaric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+D-Malic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+L-Malic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Bromo-Succinic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Tween 40,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,-
+y-Amino-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+α-Hydroxyl-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+"β-Hydroxyl-D,L-Butyric Acid",Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+α-Keto-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Acetoacetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Propionic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Acetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+Formic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FT1,+
+  pH 5,Growth_ at_different_pH,FT1,+
+  pH 6,Growth_ at_different_pH,FT1,+
+1%,Growth_at_different_NaCl_concentration,FT1,+
+4%,Growth_at_different_NaCl_concentration,FT1,BL
+8%,Growth_at_different_NaCl_concentration,FT1,+
+ 1% sodium lactate,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ Fusidic acid,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ D-Serine,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ Troleandomycin,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ Rifamycin SV,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ Minocycline,Growth_in_presence_of_inhibitory_compounds,FT1,+
+ Lincomycin,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Guanidine HCl,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Niaproof 4,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Vancomycin,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Tetrazolium violet,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Tetrazolium blue,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Nalidixic acid,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Lithium chloride,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Potassium tellurite,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Aztreonam,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Sodium butyrate,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Sodium bromate,Growth_in_presence_of_inhibitory_compounds,FT1,+
+Dextrin,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Maltose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Trehalose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Cellobiose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Gentiobiose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Sucrose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Turanose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Stachyose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Raffinose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+α-D-Lactose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Melibiose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+β-Methyl- D-Glucoside,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Salicin,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+N-Acetyl- D-Glucosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+N-Acetyl-β-D-Mannosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+N-Acetyl- D-Galactosamine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+N-Acetyl Neuraminic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+α-D-Glucose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Mannose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Fructose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Galactose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,BL
+3-Methyl Glucose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Fucose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+L-Fucose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+L-Rhamnose,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Inosine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Sorbitol,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Mannitol,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Arabitol,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+myo-Inositol,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Glycerol,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Glucose-6-PO4,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Fructose-6-PO4,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Aspartic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Serine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Gelatin,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Glycyl-L-Proline,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Alanine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+L-Arginine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Aspartic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Glutamic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Histidine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+L-Pyroglutamic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,BL
+L-Serine,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,BL
+Pectin,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Galacturonic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+L-Galactonic Acid Lactone,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Gluconic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Glucuronic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,BL
+Glucuronamide,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Mucic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Quinic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Saccharic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+p-Hydroxy-Phenylacetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,BL
+Methyl Pyruvate,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+D-Lactic Acid Methyl Ester,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Lactic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Citric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+α-Keto-Glutaric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+D-Malic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+L-Malic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Bromo-Succinic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Tween 40,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+y-Amino-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+α-Hydroxyl-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+"β-Hydroxyl-D,L-Butyric Acid",Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+α-Keto-Butyric Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Acetoacetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Propionic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,-
+Acetic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+Formic Acid,Growth_in_different_Carbon_and_Nitrogen_sources,FB2,+
+  pH 5,Growth_ at_different_pH,FB2,-
+  pH 6,Growth_ at_different_pH,FB2,-
+1%,Growth_at_different_NaCl_concentration,FB2,+
+4%,Growth_at_different_NaCl_concentration,FB2,+
+8%,Growth_at_different_NaCl_concentration,FB2,+
+ 1% sodium lactate,Growth_in_presence_of_inhibitory_compounds,FB2,-
+ Fusidic acid,Growth_in_presence_of_inhibitory_compounds,FB2,-
+ D-Serine,Growth_in_presence_of_inhibitory_compounds,FB2,-
+ Troleandomycin,Growth_in_presence_of_inhibitory_compounds,FB2,-
+ Rifamycin SV,Growth_in_presence_of_inhibitory_compounds,FB2,+
+ Minocycline,Growth_in_presence_of_inhibitory_compounds,FB2,BL
+ Lincomycin,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Guanidine HCl,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Niaproof 4,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Vancomycin,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Tetrazolium violet,Growth_in_presence_of_inhibitory_compounds,FB2,BL
+Tetrazolium blue,Growth_in_presence_of_inhibitory_compounds,FB2,+
+Nalidixic acid,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Lithium chloride,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Potassium tellurite,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Aztreonam,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Sodium butyrate,Growth_in_presence_of_inhibitory_compounds,FB2,-
+Sodium bromate,Growth_in_presence_of_inhibitory_compounds,FB2,-
